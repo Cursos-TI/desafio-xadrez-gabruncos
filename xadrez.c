@@ -129,3 +129,10 @@ int main() {
     } while (sairdojogo != 1); { // enquanto a variavel sairdojogo for igual a 0, o loop continua
         sairdojogo = 0; }
     return 0; } 
+
+/*
+                          ░░░░░███████ ]▄▄▄▄▄▄▄▄
+                          ▂▄▅█████████▅▄▃▂   ☻
+                        Il███████████████████]. /▌\╦─
+                           @@@@@@@@@@@@@@@@@    / \
+*/
